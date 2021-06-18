@@ -1,6 +1,6 @@
 <?php
 
-namespace Alura\Solid\Model;
+namespace Alura\Solid\Interfaces;
 
 interface Assistivel 
 {
