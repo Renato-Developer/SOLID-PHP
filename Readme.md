@@ -8,6 +8,9 @@
 
    - ✅ "Foco força & fé" 💪
 
+<img src="assets/img/solid.jpg"/>
+<br/>
+
 ---
 
    ```
