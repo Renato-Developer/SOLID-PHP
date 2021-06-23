@@ -1,4 +1,4 @@
-<h1 align="center">Solid With PHP</h1>
+<h1 align="center">SOLID - PHP</h1>
 
 <h2 align="center">Sobre 📖</h2>
    
