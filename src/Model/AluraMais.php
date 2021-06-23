@@ -22,6 +22,6 @@ class AluraMais extends Video implements Pontuavel, assistivel
 
     public function recuperarPontuacao(): int
     {
-        return $this->minutosDeDuracao * 2;
+        return $this->minutosDeDuracao() * 2;
     }
 }
