@@ -18,10 +18,10 @@
    $ git clone https://github.com/Renato-Developer/solid-with-php
 
    - Check the directory:
-   $ cd /var/www/html/<NameOfProject>
+   $ cd /var/www/html/<ProjectName>
 
    - Open your browser in:
-   http://localhost/<NameOfProject>
+   http://localhost/<ProjectName>
    ```
 
 ---
