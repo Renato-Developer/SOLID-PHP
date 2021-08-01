@@ -12,7 +12,6 @@
 <br/>
 
 ---
-
    ```
    - Clone this repository:
    $ git clone https://github.com/Renato-Developer/solid-with-php
@@ -23,7 +22,6 @@
    - Open your browser in:
    http://localhost/<ProjectName>
    ```
-
 ---
 
 <h2 align="center">How to Contribute 💪</h2>
